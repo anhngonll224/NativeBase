@@ -1,0 +1,143 @@
+
+
+-direction={["column", "column", "row"]}:  sắp xếp thành phần con bên trong,2 thành phần ban đầu theo chiều dọc,3 theo chiều ngang
+
+overflow="hidden": Ẩn nội dung khi vượt quá kích thước
+
+width={["72", "72", "4/6"]} và height={["96", "96", "48"]}: xác định kích thước theo tỷ lệ màn hình to hay nhỏ
+
+shadow="1" hiệu ứng bóng đổ
+
+_dark={{
+        backgroundColor: "gray.700":Chủ đề ánh sáng
+      }}
+
+rounded="md :độ cong vừa tương tự borderRadius
+
+size={["md", "lg", "md"]} :kích thước theo tỉ lệ màn hình
+
+//Responsiver 
+
+w={{ base: "64", md: "80", lg: "md" }} :kích thước theo tỷ lệ điện thoại lần lượt là cơ bản,trung bình, lớn
+
+
+//Màu sắc//
+color="gray.400"
+ bg="emerald.400" 
+
+_text={{
+    color: "white"
+  }}
+
+
+
+//Khoản cách//
+
+space="3":đây là thuộc tính để đặt khoảng cách giữa các thành phần con bên trong thành phần cha
+
+
+//img//
+ ratio={16 / 9} có thể là tỷ lệ 16:9 của một video hoặc hình ảnh.
+
+source={HeroImg}: Thuộc tính này xác định nguồn (source) của hình ảnh được hiển thị. Giá trị HeroImg có thể là một biến hoặc đường dẫn 
+
+alt="image base": Đây là văn bản thay thế cho hình ảnh.
+
+
+//văn bản(text)//
+
+isTruncated:đoạn văn bản dài quá thì thành ..
+
+noOfLines={["4", "4", "4"]}: Xác định số dòng tối đa
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
